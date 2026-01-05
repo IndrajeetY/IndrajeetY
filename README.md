@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm IndrajeetY</h1>
-<h3 align="center">I build things that live on the internet. Interested in backend systems, clean APIs, and thoughtful architecture. Constantly learning, refactoring, and improving.</h3>
+<h3 align="center">I build things that live on the internet. 
+Interested in backend systems, clean APIs, and thoughtful architecture. 
+Constantly learning, refactoring, and improving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajeety&label=Profile%20views&color=0e75b6&style=flat" alt="indrajeety" /> </p>
 
