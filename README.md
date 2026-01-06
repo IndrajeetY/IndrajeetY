@@ -7,7 +7,7 @@ Constantly learning, refactoring, and improving.</h3>
 <p align="center"> <img src="" alt="indrajeety" /> </p>
 <p align="center"> <img src="" alt="indrajeety" /> </p>
 
-- 🔭 I’m currently working on [AI based load balancing and forecasting for data centers](https://github.com/IndrajeetY/Load-Forecasting-in-Data-Centers)
+- 🔭 I’m currently working on [AI based load balancing and forecasting system for data centers](https://github.com/IndrajeetY/Load-Forecasting-in-Data-Centers)
 
 - 🌱 I’m currently learning **React node.js express.js PostgreSQL Firebase**
 
