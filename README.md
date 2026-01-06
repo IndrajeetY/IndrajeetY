@@ -4,8 +4,8 @@ Interested in backend systems, clean APIs, and thoughtful architecture.
 Constantly learning, refactoring, and improving.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=indrajeety&label=Profile%20views&color=0e75b6&style=flat" alt="indrajeety" /> </p>
-<p align="center"> <img src="https://camo.githubusercontent.com/41f4fb6f39b0f15d18f5ac9b2039659badccf87474d29089e04a833d9ed391e0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d652d333625323068727325323032342532306d696e732d626c75653f7374796c653d666c6174" alt="indrajeety" /> </p>
-<p align="center"> <img src="https://camo.githubusercontent.com/446236fd82ae4481768697f3a4d873743b8939a1c805b8c4bf5b3d82471e3464/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726f6d25323048656c6c6f253230576f726c642532304925323776652532305772697474656e2d32302e34312532306d696c6c696f6e2532306c696e65732532306f66253230636f64652d626c75653f7374796c653d666c6174" alt="indrajeety" /> </p>
+<p align="center"> <img src="" alt="indrajeety" /> </p>
+<p align="center"> <img src="" alt="indrajeety" /> </p>
 
 - 🔭 I’m currently working on [AI based load balancing and forecasting for data centers](https://github.com/IndrajeetY/Load-Forecasting-in-Data-Centers)
 
